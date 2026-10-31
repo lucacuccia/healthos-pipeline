@@ -1,0 +1,12 @@
+venv/
+.env
+credentials/
+data/
+reports/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+launchd/
+.git/
+*.md
